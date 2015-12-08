@@ -1,0 +1,21 @@
+{
+  "name": "react",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Diego Castro <diegoac@thehangar.cr>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.3"
+  }
+}
